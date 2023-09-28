@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Luka Veljovic - Resume</title>
+</head>
+<body>
+    <h1>Luka Veljovic</h1>
+    <p>808 Indica Street<br>
+       Ottawa, ON K2S2M7<br>
+       Phone: (613) 915-4660<br>
+       Email: <a href="mailto:luka.veljovic101@gmail.com">luka.veljovic101@gmail.com</a>
+    </p>
+
+    <h2>OBJECTIVE</h2>
+    <p>To secure a position at Wellings</p>
+
+    <h2>EDUCATION</h2>
+    <p>
+        2016-2020<br>
+        Holy Trinity - 180 Katimavik Rd, Kanata<br>
+        Acquired OCSB graduate diploma
+    </p>
+    <p>
+        2020-2021<br>
+        Algonquin College - 1385 Woodroffe Ave, Nepean<br>
+        Acquired Music Industry Arts diploma<br>
+        Program: Music Industry Arts
+    </p>
+
+    <h2>SKILLS</h2>
+    <ul>
+        <li>Great teamwork skills</li>
+        <li>Exceptional communication that aids in client relations</li>
+        <li>Fluent in French, Serbian, and English aids with communicating with diverse clients</li>
+        <li>Quick learner</li>
+    </ul>
+
+    <h2>WORK EXPERIENCE</h2>
+    <p>
+        <strong>Zumiez Tanger Outlets</strong><br>
+        <em>Reference Name:</em> Hassan Boyce<br>
+        <em>Reference Position:</em> Manager<br>
+        <em>Phone:</em> (613) 413-3321<br>
+    </p>
+    <p>
+        <strong>Position:</strong> Sales Associate & Health & Safety Advisor
+    </p>
+    <p>
+        <strong>Job Requirements:</strong> As a Sales Associate, my job was to help customers find what they were looking for as well as providing additional or alternative items that might interest them. I was also in charge of processing customer transactions at the cash register. In addition to my sales role, I served as the Health and Safety Advisor, responsible for ensuring all employees were properly trained to handle equipment and ensuring the store complied with Ontario Labor Law health requirements.
+    </p>
+</body>
+</html>
